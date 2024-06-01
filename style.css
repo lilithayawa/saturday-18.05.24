@@ -12,9 +12,8 @@ body{
     background-color: #f8f9fa;
     padding-top: 20px;
 }
-.sidenav ul {
-    list-style-type: none;
-    padding: 0;
+nav ul li a {
+    color: white;
 }
 
 .sidenav ul li{
